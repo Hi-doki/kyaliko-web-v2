@@ -9,18 +9,25 @@ const Navbar = () => {
                 <Link href="/">
                     <img src="../main.png" width="50px" />
                 </Link>
-                
+
             </div>
             <div className="flex gap-10">
-                <Link href="../about">
-                   About
-                </Link>
-                <Link href="../contact">
-                   Contact
-                </Link>
-                <Link href="../meow">
-                   Projects
-                </Link>
+                <div className="">
+                    <Link href="../about">
+                        About
+                    </Link>
+                </div>
+                <div>
+                    <Link href="../contact">
+                        Contact
+                    </Link>
+                </div>
+                <div>
+                    <Link href="../meow">
+                        Projects
+                    </Link>
+                </div>
+                
             </div>
         </div>
     </div>
