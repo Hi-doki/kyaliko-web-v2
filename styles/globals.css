@@ -5,6 +5,7 @@
 .uwu{
   background-image: url("https://cdn.discordapp.com/attachments/971812281597964369/1032638746228703283/mc.png");
   background-size: cover;
+  background-position: center;
 }
 
 body {
@@ -16,5 +17,7 @@ body {
 
 body {
   color: white;
-  background: black;
+  background: url("https://cdn.discordapp.com/attachments/971812281597964369/1032638746228703283/mc.png");
+  background-size: auto;
+  background-position: center;
 }

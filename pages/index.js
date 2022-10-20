@@ -11,7 +11,7 @@ import Link from 'next/link';
 
 export default function Home() {
   return (
-    <div className="h-full bg-fixed uwu font-semibold selection:bg-indigo-300/25">
+    <div className="h-full bg-fixed font-semibold selection:bg-indigo-300/25">
       <Navbar></Navbar>
       <div className="h-screen">
         <div className="p-10 pt-48 grid gap-10 place-content-center">
