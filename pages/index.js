@@ -4,6 +4,7 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import Navbar from '../components/Navbar';
 import Link from 'next/link';
+import Footer from '../components/Footer';
 
 
 
@@ -27,6 +28,7 @@ export default function Home() {
           </Link>
         </div>
       </div>
+      <Footer></Footer>
     </div>
   )
 }
