@@ -27,7 +27,7 @@ const about = () => {
             </div>
             <div className="md:flex grid items-center text-center gap-4 place-content-center pb-10">
                     <div className="bg-gray-50/10 place-content-center backdrop-blur-lg p-2 w-56 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
-                        <img src="https://cdn.discordapp.com/avatars/828795326878056459/b91bb30c4d72cdecba6cfa6f65cd6a00.png?size=2048" className="w-14 rounded-full" />
+                        <img src="https://cdn.discordapp.com/avatars/828795326878056459/be1e0f5c15292e8186e91d91623a2142.png?size=2048" className="w-14 rounded-full" />
                         Kyatto
                     </div>
                     <div className="bg-gray-50/10 place-content-center backdrop-blur-lg p-2 w-56 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">

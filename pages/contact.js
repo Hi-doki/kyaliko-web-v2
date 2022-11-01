@@ -20,7 +20,7 @@ const contact = () => {
                     </div>
                 </div>
                 <div className="bg-gray-50/10 backdrop-blur-lg p-2 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
-                    <img src="https://cdn.discordapp.com/avatars/828795326878056459/b91bb30c4d72cdecba6cfa6f65cd6a00.png?size=2048" className="w-12 rounded-full" />
+                    <img src="https://cdn.discordapp.com/avatars/828795326878056459/be1e0f5c15292e8186e91d91623a2142.png?size=2048" className="w-12 rounded-full" />
                     <div>
                         <span>kyatto<span className="text-[#ffdbb7]">#2671</span></span>
                     </div>
