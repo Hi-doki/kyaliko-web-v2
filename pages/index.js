@@ -24,7 +24,7 @@ export default function Home() {
         <div className="flex place-content-center p-10">
           <Link href="about">
             <button className="p-2 w-auto bg-white/25 rounded-md hover:scale-110 hover:bg-white/10 transition ease-in-out duration-300">
-              Click Me
+              Click Me :3
             </button>
           </Link>
         </div>
