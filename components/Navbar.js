@@ -18,6 +18,9 @@ const Navbar = () => {
                 <Link href="contact">
                    Contact
                 </Link>
+                <Link href="meow">
+                   Click
+                </Link>
             </div>
         </div>
     </div>
