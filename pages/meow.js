@@ -17,7 +17,7 @@ const contact = () => {
                 <div className="bg-gray-50/10 backdrop-blur-lg p-2 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
                     
                     <div>
-                        <span>Im so bored rn ong ouhsdaoiusdhasoiduay wdaoiushdakjsdhasodaishjaoisdhaoiuda hgosiudhoikfuagdifusdgfisudfhgaosdaihsdoausdhgaosdu</span>
+                        <span>Im so bored rn ong sdfdsfdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf</span>
                     </div>
                 </div>
             </div>
