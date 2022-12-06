@@ -23,7 +23,7 @@ const contact = () => {
                                 <span className="font-semibold text-lg">Kyaliko Installer</span>
                                 <div className="flex place-content-end">
                                     <Link href="https://github.com/kyaliko/kyalikoinstaller">
-                                        <button className="p-1 bg-white bg-opacity-10 rounded-md w-24">Click</button>
+                                        <button className="p-1 bg-white bg-opacity-10 rounded-md w-24">Github</button>
                                     </Link>
                                 </div>
                                 
