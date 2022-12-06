@@ -17,7 +17,7 @@ const contact = () => {
             <div className="flex place-content-center gap-4 text-center pb-48">
                 <div className="bg-gray-50/10 backdrop-blur-lg p-2 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
                     <div className="flex gap-4">
-                        <img className="w-24 rounded-md hover:-translate-y-10 transition ease-in-out duration-300" src="https://avatars.githubusercontent.com/u/101818213?s=400&u=1be6149633a307b15871cb3e626de0a819054b04&v=4"></img>
+                        <img className="w-24 rounded-md hover:-translate-y-2 transition ease-in-out duration-300" src="https://avatars.githubusercontent.com/u/101818213?s=400&u=1be6149633a307b15871cb3e626de0a819054b04&v=4"></img>
                         <div className="grid gap-4 text-left">
                             <div className="flex gap-4 place-content-between">
                                 <span className="font-semibold text-lg">Kyaliko Installer</span>
