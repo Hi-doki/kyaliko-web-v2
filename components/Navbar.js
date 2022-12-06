@@ -19,7 +19,7 @@ const Navbar = () => {
                    Contact
                 </Link>
                 <Link href="meow">
-                   Click
+                   Projects
                 </Link>
             </div>
         </div>
