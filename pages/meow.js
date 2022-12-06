@@ -21,7 +21,9 @@ const contact = () => {
                         <div className="grid gap-4 text-left">
                             <div className="flex gap-4">
                                 <span className="font-semibold text-lg">Kyaliko Installer</span>
-                                <Link href="https://github.com/kyaliko/kyalikoinstaller"><button className="p-2 bg-white bg-opacity-80 ">Click</button></Link>
+                                <Link href="https://github.com/kyaliko/kyalikoinstaller">
+                                    <button className="p-2 bg-white bg-opacity-80 ">Click</button>
+                                </Link>
                             </div>
                             
                             <span className="text-grey-400 font-light">An open-source installer for all types of programs.</span>
