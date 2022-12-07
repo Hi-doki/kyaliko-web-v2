@@ -84,7 +84,7 @@ const contact = () => {
 
             <div className="flex place-content-center text-center pb-10">
                 <div className="bg-gray-50/10 backdrop-blur-lg p-2 grid gap-2 rounded-md">
-                    <span>just coded this in class <br /> <a className="text-[#ffdbb7] underline-offset-1 decoration-[#ffdbb7] underline" href="https://github.com/hi-doki">support@kyaliko.com</a></span>
+                    <span>To promote your own projects here, contact <a className="text-[#ffdbb7] underline-offset-1 decoration-[#ffdbb7] underline" href="https://github.com/hi-doki">support@kyaliko.com</a></span>
                     <span>(=•ω＜=)</span>
                 </div>
             </div>
