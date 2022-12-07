@@ -23,7 +23,7 @@ export default function Home() {
         </div>
 
         <div className="flex place-content-center text-center">
-          <div className="flex place-content-center p-2 rounded-md bg-white/25">
+          <div className="flex place-content-center p-2 backdrop-blur-lg rounded-md bg-white/25">
             <span>
               I (kyatto) have stopped working on the original website <span className="text-[#ffdbb7] underline-offset-1 decoration-[#ffdbb7] underline">kyaliko.com</span> and will soon be moved to old.kyaliko.com
             </span>
@@ -32,7 +32,7 @@ export default function Home() {
 
         <div className="flex place-content-center p-10">
           <Link href="about">
-            <button className="p-2 w-auto bg-white/25 rounded-md hover:scale-110 hover:bg-white/10 transition ease-in-out duration-300">
+            <button className="p-2 w-auto bg-white/25 rounded-md backdrop-blur-lg hover:scale-110 hover:bg-white/10 transition ease-in-out duration-300">
               Click Me :3
             </button>
           </Link>
