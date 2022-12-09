@@ -27,11 +27,11 @@ const about = () => {
             </div>
             <div className="md:flex grid items-center text-center gap-4 place-content-center pb-10">
                     <div className="bg-gray-50/10 place-content-center backdrop-blur-lg p-2 w-56 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
-                        <img src="https://cdn.discordapp.com/avatars/828795326878056459/02d6524bd43da8e9c6213a857a4d19d7.png?size=2048" className="w-14 rounded-full" />
+                        <img src="https://avatars.githubusercontent.com/u/106713009?v=4" className="w-14 rounded-full" />
                         Kyatto
                     </div>
                     <div className="bg-gray-50/10 place-content-center backdrop-blur-lg p-2 w-56 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
-                        <img src="https://cdn.discordapp.com/avatars/500392354105131009/fe4fce34e7b66c72492bce68c31418a2.png?size=2048" className="w-14 rounded-full" />
+                        <img src="https://avatars.githubusercontent.com/u/88623244?v=4" className="w-14 rounded-full" />
                         Astromal
                     </div>
                     <div className="bg-gray-50/10 place-content-center backdrop-blur-lg p-2 w-56 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">

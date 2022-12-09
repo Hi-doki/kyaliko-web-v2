@@ -14,13 +14,7 @@ const contact = () => {
             </div>
             <div className="flex place-content-center gap-4 text-center pb-48">
                 <div className="bg-gray-50/10 backdrop-blur-lg p-2 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
-                    <img src="https://cdn.discordapp.com/avatars/500392354105131009/fe4fce34e7b66c72492bce68c31418a2.png?size=2048" className="w-12 rounded-full" />
-                    <div>
-                        <span>astromal<span className="text-[#ffdbb7]">#2722</span></span>
-                    </div>
-                </div>
-                <div className="bg-gray-50/10 backdrop-blur-lg p-2 rounded-md flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
-                    <img src="https://cdn.discordapp.com/avatars/828795326878056459/02d6524bd43da8e9c6213a857a4d19d7.png?size=2048" className="w-12 rounded-full" />
+                    <img src="https://avatars.githubusercontent.com/u/106713009?v=4" className="w-12 rounded-full" />
                     <div>
                         <span>kyatto<span className="text-[#ffdbb7]">#2671</span></span>
                     </div>
