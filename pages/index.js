@@ -16,7 +16,6 @@ import TypedText from '../public/vendor/indextyped';
 export default function Home() {
   return (
     <div className="h-full bg-fixed font-semibold selection:bg-indigo-300/25">
-      <script src="./vendor/uwu.js"></script>
       <div className="h-screen">
         <div className="p-10 pt-48 grid gap-10 place-content-center text-center">
           <span className="font-bold text-5xl hover:scale-110 transition ease-in-out duration-500">Welcome to Kyaliko</span>
@@ -25,7 +24,7 @@ export default function Home() {
         <div className="flex place-content-center text-center items-center">
           <div className="flex place-content-center h-max p-2 backdrop-blur-lg rounded-md bg-white/25">
             <span>
-              <span className="flex gap-1 hover:scale-110 transition ease-in-out duration-500">Kyaliko creates <TypedText/></span>
+              <span className="flex gap-1 hover:scale-110 transition ease-in-out duration-500">Kyaliko creates <TypedText defer/></span>
             </span>
           </div>
         </div>
