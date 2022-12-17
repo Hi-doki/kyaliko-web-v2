@@ -58,7 +58,7 @@ if (!embedimSnow) {
   embedimSnow = document.createElement("div");
   embedimSnow.id = "embedim--snow";
   embedimSnow.innerHTML =
-    "<style>#embedim--snow{position:fixed;left:0;top:0;bottom:0;width:100vw;height:100vh;overflow:hidden;z-index:0;pointer-events:none}" +
+    "<style>#embedim--snow{position:fixed;left:0;top:0;bottom:0;width:100vw;height:100vh;overflow:hidden;z-index:-1;pointer-events:none}" +
     embCSS +
     "</style>" +
     embHTML;
