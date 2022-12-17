@@ -9,7 +9,6 @@ import Footer from '../components/Footer'
 const contact = () => {
   return (
     <div className="h-full">
-        <Navbar></Navbar>
         <div className="pt-48 sm:h-full md:h-screen selection:bg-indigo-300/25">
             <div className="flex place-content-center pb-48">
                 <div className="text-5xl  font-bold hover:scale-110 transition ease-in-out duration-500">
@@ -89,7 +88,6 @@ const contact = () => {
                 </div>
             </div>
         </div>
-        <Footer></Footer>
     </div>
   )
 }

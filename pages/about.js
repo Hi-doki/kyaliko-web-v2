@@ -5,7 +5,6 @@ import Footer from '../components/Footer'
 const about = () => {
   return (
     <div className=" h-full selection:bg-indigo-300/25 overflow-x-hidden">
-        <Navbar></Navbar>
         <div className="h-screen worky">
             
             <div className="flex gap-y-40 place-content-center text-center items-center pt-48">
@@ -47,7 +46,6 @@ const about = () => {
                 </div>
             </div>
         
-        <Footer></Footer>
     </div>
   )
 }

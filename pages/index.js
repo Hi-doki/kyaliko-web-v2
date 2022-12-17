@@ -6,6 +6,8 @@ import Navbar from '../components/Navbar';
 import Link from 'next/link';
 import Footer from '../components/Footer';
 import React from 'react';
+import indextyped from '../public/vendor/indextyped'
+import TypedText from '../public/vendor/indextyped';
 
 
 
@@ -14,31 +16,28 @@ import React from 'react';
 export default function Home() {
   return (
     <div className="h-full bg-fixed font-semibold selection:bg-indigo-300/25">
-      <Navbar></Navbar>
+      <script src="./vendor/uwu.js"></script>
       <div className="h-screen">
-        <div className="p-10 pt-48 grid gap-10 place-content-center">
+        <div className="p-10 pt-48 grid gap-10 place-content-center text-center">
           <span className="font-bold text-5xl hover:scale-110 transition ease-in-out duration-500">Welcome to Kyaliko</span>
-        
-
         </div>
 
-        <div className="flex place-content-center text-center">
-          <div className="flex place-content-center p-2 backdrop-blur-lg rounded-md bg-white/25">
+        <div className="flex place-content-center text-center items-center">
+          <div className="flex place-content-center h-max p-2 backdrop-blur-lg rounded-md bg-white/25">
             <span>
-              I (kyatto) have stopped working on the original website <span className="text-[#ffdbb7] underline-offset-1 decoration-[#ffdbb7] underline">kyaliko.com</span> and will soon be moved to old.kyaliko.com
+              <span className="flex gap-1 hover:scale-110 transition ease-in-out duration-500">Kyaliko creates <TypedText/></span>
             </span>
           </div>
         </div>
 
-        <div className="flex place-content-center p-10">
+        <div className="flex place-content-center p-10 items-center">
           <Link href="about">
             <button className="p-2 w-auto bg-white/25 rounded-md backdrop-blur-lg hover:scale-110 hover:bg-white/10 transition ease-in-out duration-300">
-              Click Me :3
+              Click Here
             </button>
           </Link>
         </div>
       </div>
-      <Footer></Footer>
     </div>
   )
 }
