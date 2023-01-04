@@ -48,7 +48,7 @@ const contact = () => {
                 <div className="bg-gray-50/10 backdrop-blur-lg p-2 w-[25rem] md:w-[30rem] rounded-md grid md:flex gap-4 items-center font-semibold hover:scale-110 transition ease-in-out duration-300">
                     <div className="grid md:flex place-content-center gap-4">
                         <div className="flex pt-2 md:pt-0 place-content-center">
-                            <img className="w-24 rounded-md hover:scale-105 transition ease-in-out duration-300" src="https://avatars.githubusercontent.com/u/101818213?s=400&u=1be6149633a307b15871cb3e626de0a819054b04&v=4"></img>
+                            <img className="w-24 rounded-md hover:scale-105 transition ease-in-out duration-300" src="https://camo.githubusercontent.com/cc91bc671ca0392f301d6dd9fc88f3ca9bbc7fe56a4eb9ddac41bde8a28641ab/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313035333731343836343035343436383631392f313035333732313638393436363334333438352f4b79616c696b6f5f5250435f5472616e732e706e67"></img>
                         </div>
                         
                         <div className="grid gap-4 text-center md:text-left">
