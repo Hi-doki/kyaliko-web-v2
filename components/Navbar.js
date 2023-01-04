@@ -12,13 +12,13 @@ const Navbar = () => {
                 
             </div>
             <div className="flex gap-10">
-                <Link href="about">
+                <Link href="../about">
                    About
                 </Link>
-                <Link href="contact">
+                <Link href="../contact">
                    Contact
                 </Link>
-                <Link href="meow">
+                <Link href="../meow">
                    Projects
                 </Link>
             </div>

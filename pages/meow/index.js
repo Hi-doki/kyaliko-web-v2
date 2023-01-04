@@ -1,7 +1,5 @@
 import React from 'react'
 import Link from 'next/link'
-import Navbar from '../components/Navbar'
-import Footer from '../components/Footer'
 
 //line 23 and other nested stuff inside is the main focus container.
 
@@ -57,8 +55,8 @@ const contact = () => {
                             <div className="grid md:flex gap-4 place-content-center md:place-content-between">
                                 <span className="font-semibold text-lg">Kyaliko RPC</span>
                                 <div className="md:absolute md:right-2">
-                                    <Link href="https://github.com/kyaliko/kyaliko-rpc">
-                                        <button className="p-1 bg-white bg-opacity-10 rounded-md w-24">Github</button>
+                                    <Link href="/meow/kyalikorpc">
+                                        <button className="p-1 bg-white bg-opacity-10 rounded-md w-24">Info</button>
                                     </Link>
                                 </div>
                                 

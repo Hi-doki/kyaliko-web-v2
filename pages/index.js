@@ -1,12 +1,5 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import { initializeApp } from "firebase/app";
-import { getAnalytics } from "firebase/analytics";
-import Navbar from '../components/Navbar';
 import Link from 'next/link';
-import Footer from '../components/Footer';
 import React from 'react';
-import indextyped from '../public/vendor/indextyped'
 import TypedText from '../public/vendor/indextyped';
 
 
