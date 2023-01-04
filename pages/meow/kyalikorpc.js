@@ -18,7 +18,7 @@ const kyalikorpc = () => {
           <div id="image">
             <img src="../rpctest.png" className="md:w-[1000px] rounded-md"></img>
           </div>
-          <div className=""><span className="font-semibold text-lg">About</span> <br/> Kyaliko RPC is a Discord rich presence changer to allow people to have a weird af status. <br/>This program has Discord's dev portal built-in so you don't have to go onto a web browser :3 <br/> <br/>
+          <div className=""><span className="font-semibold text-lg">About</span> <br/> Kyaliko RPC is a Discord rich presence changer to allow people to have a weird af status. <br/>This program has Discords dev portal built-in so you dont have to go onto a web browser :3 <br/> <br/>
             <span className="font-semibold text-lg">Features</span> <br/>
             <a className="text-sm">The programs includes: Changing ClientIDs instead of restarting the app to change it (alot of rpc programs are like that ;-;), Changing Details, State, LargeKey, LargeText, SmallKey, Actually allowing people to put SmallText </a>
             <div className="text-[#ffdbb7] gap-4 pt-8">
