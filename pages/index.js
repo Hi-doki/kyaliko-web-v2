@@ -15,9 +15,9 @@ export default function Home() {
         </div>
 
         <div className="flex place-content-center text-center items-center">
-          <div className="flex place-content-center h-max p-2 backdrop-blur-lg rounded-md bg-white/25">
+          <div className="flex place-content-center h-max p-2 backdrop-blur-lg rounded-md bg-white/25 hover:scale-110 transition ease-in-out duration-500">
             <span>
-              <span className="flex gap-1 hover:scale-110 transition ease-in-out duration-500">Kyaliko creates <TypedText defer/></span>
+              <span className="flex gap-1">Kyaliko creates <TypedText defer/></span>
             </span>
           </div>
         </div>
