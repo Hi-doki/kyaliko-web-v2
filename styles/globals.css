@@ -24,7 +24,7 @@
 body {
   font-family: 'Noto Sans', sans-serif;
   color: white;
-  background: url("https://github.com/Hi-doki/Hi-doki/blob/main/Def.png");
+  background: url("https://raw.githubusercontent.com/Hi-doki/Hi-doki/main/Def.png");
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
