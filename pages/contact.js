@@ -22,7 +22,7 @@ const contact = () => {
                                 <img className="w-6" src="./discord-mark-white.svg" /><span>mi._.chi</span>
                             </div>
                             <div className="flex gap-x-2">
-                                <img className="w-6" src="./Logo white.svg" /><span>calico_cl</span>
+                                <img className="w-6" src="./Logo white.svg" /><span>nekosca_</span>
                             </div>
                             <div className="flex gap-x-2">
                                 <img className="w-6" src="./github-mark-white.svg" /><span>hi-doki</span>
