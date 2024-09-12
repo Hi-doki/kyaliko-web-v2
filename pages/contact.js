@@ -19,7 +19,7 @@ const contact = () => {
                         </div>
                         <div className="grid pl-4 gap-y-2">
                             <div className="flex gap-x-2">
-                                <img className="w-6" src="./discord-mark-white.svg" /><span>kyatto<span className="text-[#ffdbb7]">#2671</span></span>
+                                <img className="w-6" src="./discord-mark-white.svg" /><span>mi._.chi</span>
                             </div>
                             <div className="flex gap-x-2">
                                 <img className="w-6" src="./Logo white.svg" /><span>calico_cl</span>
